@@ -1,5 +1,5 @@
 // Archivo principal
-console.log('Hola MC2');
+console.log('Saludos desde rama B - Otra versión');
 
 // Versión: 1.0.0
 // Fecha de release: 2025-08-19
