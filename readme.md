@@ -5,3 +5,8 @@ Repositorio para la clase de Metodologia de Sistema 2
 - ✅ Funcionalidad de registro implementada
 - ✅ Botón de registro interactivo
 - ✅ Estructura básica del proyecto
+
+## Versión 1.0.0
+- ✅ Funcionalidad de registro implementada
+- ✅ Botón de registro interactivo
+- ✅ Estructura básica del proyecto
